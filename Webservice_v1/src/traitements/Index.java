@@ -99,10 +99,10 @@ public class Index {
 			ResultSet results = null;
 			
 			String select = "SELECT code_postaux.ID,CP,VILLE FROM CODE_POSTAUX INNER JOIN jointure ON jointure.CODE_POSTAUX_ID = code_postaux.ID WHERE CP LIKE ? ORDER BY VILLE" ; // Initialisation de la requete
-			
+			PreparedStatement prep1 = null
 
 			try {
-				PreparedStatement prep1 = cnx.prepareStatement(select); // preparation de la requete
+				 prep1 = cnx.prepareStatement(select); // preparation de la requete
 				prep1.setString(1,CP_recherche + "%"); // ajout d'un parametre a la requete
 				System.out.println("Requete de base : "+select);
 				System.out.println("Prep1 : "+prep1);
@@ -111,7 +111,15 @@ public class Index {
 			} catch (Exception e) {
 				e.printStackTrace(); // Si on y arrive pas on affiche l'erreur
 
-			}
+			}finally{
+	            if(prep1 != null){
+	                try {
+	                    prep1.close();
+	                } catch (Exception e) {
+	                    e.printStackTrace();
+	                }
+	            }
+	        }
 
 			while (results.next()) { // Tant qu'on trouve une reponse
 				String cp = results.getString("CP"); // On récupère le CP renvoyé par la BDD, dans une varaible .

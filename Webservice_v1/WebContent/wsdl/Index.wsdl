@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://traitements" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:impl="http://traitements" xmlns:intf="http://traitements" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--WSDL created by Apache Axis version: 1.4
+Built on Apr 22, 2006 (06:55:48 PDT)-->
+ <wsdl:types>
+  <schema elementFormDefault="qualified" targetNamespace="http://traitements" xmlns="http://www.w3.org/2001/XMLSchema">
+   <element name="listerCpEtVilleParZoneSecondaire">
+    <complexType>
+     <sequence>
+      <element name="ZoneSecondaire" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="listerCpEtVilleParZoneSecondaireResponse">
+    <complexType>
+     <sequence>
+      <element name="listerCpEtVilleParZoneSecondaireReturn" type="impl:ArrayOf_xsd_anyType"/>
+     </sequence>
+    </complexType>
+   </element>
+   <complexType name="ArrayOf_xsd_anyType">
+    <sequence>
+     <element maxOccurs="unbounded" minOccurs="0" name="item" type="xsd:anyType"/>
+    </sequence>
+   </complexType>
+   <element name="listerCpEtVilleParZoneChalandise">
+    <complexType>
+     <sequence>
+      <element name="ZoneChalandise" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="listerCpEtVilleParZoneChalandiseResponse">
+    <complexType>
+     <sequence>
+      <element name="listerCpEtVilleParZoneChalandiseReturn" type="impl:ArrayOf_xsd_anyType"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="lister">
+    <complexType>
+     <sequence>
+      <element name="CP_recherche" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="listerResponse">
+    <complexType>
+     <sequence>
+      <element name="listerReturn" type="impl:ArrayOf_xsd_anyType"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="listerVille">
+    <complexType>
+     <sequence>
+      <element name="Ville_recherche" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="listerVilleResponse">
+    <complexType>
+     <sequence>
+      <element name="listerVilleReturn" type="impl:ArrayOf_xsd_anyType"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="Listons">
+    <complexType/>
+   </element>
+   <element name="ListonsResponse">
+    <complexType/>
+   </element>
+  </schema>
+ </wsdl:types>
+
+   <wsdl:message name="listerVilleResponse">
+
+      <wsdl:part element="impl:listerVilleResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="listerCpEtVilleParZoneSecondaireResponse">
+
+      <wsdl:part element="impl:listerCpEtVilleParZoneSecondaireResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="listerCpEtVilleParZoneChalandiseResponse">
+
+      <wsdl:part element="impl:listerCpEtVilleParZoneChalandiseResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="listerRequest">
+
+      <wsdl:part element="impl:lister" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="listerCpEtVilleParZoneSecondaireRequest">
+
+      <wsdl:part element="impl:listerCpEtVilleParZoneSecondaire" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="listerResponse">
+
+      <wsdl:part element="impl:listerResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="listerVilleRequest">
+
+      <wsdl:part element="impl:listerVille" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="listerCpEtVilleParZoneChalandiseRequest">
+
+      <wsdl:part element="impl:listerCpEtVilleParZoneChalandise" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="ListonsRequest">
+
+      <wsdl:part element="impl:Listons" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="ListonsResponse">
+
+      <wsdl:part element="impl:ListonsResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:portType name="Index">
+
+      <wsdl:operation name="listerCpEtVilleParZoneSecondaire">
+
+         <wsdl:input message="impl:listerCpEtVilleParZoneSecondaireRequest" name="listerCpEtVilleParZoneSecondaireRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:listerCpEtVilleParZoneSecondaireResponse" name="listerCpEtVilleParZoneSecondaireResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="listerCpEtVilleParZoneChalandise">
+
+         <wsdl:input message="impl:listerCpEtVilleParZoneChalandiseRequest" name="listerCpEtVilleParZoneChalandiseRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:listerCpEtVilleParZoneChalandiseResponse" name="listerCpEtVilleParZoneChalandiseResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="lister">
+
+         <wsdl:input message="impl:listerRequest" name="listerRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:listerResponse" name="listerResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="listerVille">
+
+         <wsdl:input message="impl:listerVilleRequest" name="listerVilleRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:listerVilleResponse" name="listerVilleResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="Listons">
+
+         <wsdl:input message="impl:ListonsRequest" name="ListonsRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:ListonsResponse" name="ListonsResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:portType>
+
+   <wsdl:binding name="IndexSoapBinding" type="impl:Index">
+
+      <wsdlsoap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+      <wsdl:operation name="listerCpEtVilleParZoneSecondaire">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="listerCpEtVilleParZoneSecondaireRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="listerCpEtVilleParZoneSecondaireResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="listerCpEtVilleParZoneChalandise">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="listerCpEtVilleParZoneChalandiseRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="listerCpEtVilleParZoneChalandiseResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="lister">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="listerRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="listerResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="listerVille">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="listerVilleRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="listerVilleResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="Listons">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="ListonsRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="ListonsResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:binding>
+
+   <wsdl:service name="IndexService">
+
+      <wsdl:port binding="impl:IndexSoapBinding" name="Index">
+
+         <wsdlsoap:address location="http://localhost:8080/Webservice_v1/services/Index"/>
+
+      </wsdl:port>
+
+   </wsdl:service>
+
+</wsdl:definitions>

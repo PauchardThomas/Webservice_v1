@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- Use this file to deploy some handlers/chains and services      --><!-- Two ways to do this:                                           --><!--   java org.apache.axis.client.AdminClient deploy.wsdd          --><!--      after the axis server is running                          --><!-- or                                                             --><!--   java org.apache.axis.utils.Admin client|server deploy.wsdd   --><!--      from the same directory that the Axis engine runs         --><deployment xmlns="http://xml.apache.org/axis/wsdd/" xmlns:java="http://xml.apache.org/axis/wsdd/providers/java">
+
+  <!-- Services from IndexService WSDL service -->
+
+  <service name="Index" provider="java:RPC" style="wrapped" use="literal">
+      <parameter name="wsdlTargetNamespace" value="http://traitements"/>
+      <parameter name="wsdlServiceElement" value="IndexService"/>
+      <parameter name="schemaQualified" value="http://traitements"/>
+      <parameter name="wsdlServicePort" value="Index"/>
+      <parameter name="className" value="traitements.Index"/>
+      <parameter name="wsdlPortType" value="Index"/>
+      <parameter name="typeMappingVersion" value="1.2"/>
+      <operation xmlns:operNS="http://traitements" xmlns:retNS="http://traitements" xmlns:rtns="http://traitements" xmlns:tns="http://traitements" name="listerCpEtVilleParZoneSecondaire" qname="operNS:listerCpEtVilleParZoneSecondaire" returnQName="retNS:listerCpEtVilleParZoneSecondaireReturn" returnType="rtns:ArrayOf_xsd_anyType" returnItemQName="tns:item" soapAction="">
+        <parameter xmlns:tns="http://www.w3.org/2001/XMLSchema" xmlns:pns="http://traitements" qname="pns:ZoneSecondaire" type="tns:string"/>
+      </operation>
+      <operation xmlns:operNS="http://traitements" xmlns:retNS="http://traitements" xmlns:rtns="http://traitements" xmlns:tns="http://traitements" name="listerCpEtVilleParZoneChalandise" qname="operNS:listerCpEtVilleParZoneChalandise" returnQName="retNS:listerCpEtVilleParZoneChalandiseReturn" returnType="rtns:ArrayOf_xsd_anyType" returnItemQName="tns:item" soapAction="">
+        <parameter xmlns:tns="http://www.w3.org/2001/XMLSchema" xmlns:pns="http://traitements" qname="pns:ZoneChalandise" type="tns:string"/>
+      </operation>
+      <operation xmlns:operNS="http://traitements" xmlns:retNS="http://traitements" xmlns:rtns="http://traitements" xmlns:tns="http://traitements" name="lister" qname="operNS:lister" returnQName="retNS:listerReturn" returnType="rtns:ArrayOf_xsd_anyType" returnItemQName="tns:item" soapAction="">
+        <parameter xmlns:tns="http://www.w3.org/2001/XMLSchema" xmlns:pns="http://traitements" qname="pns:CP_recherche" type="tns:string"/>
+      </operation>
+      <operation xmlns:operNS="http://traitements" xmlns:retNS="http://traitements" xmlns:rtns="http://traitements" xmlns:tns="http://traitements" name="listerVille" qname="operNS:listerVille" returnQName="retNS:listerVilleReturn" returnType="rtns:ArrayOf_xsd_anyType" returnItemQName="tns:item" soapAction="">
+        <parameter xmlns:tns="http://www.w3.org/2001/XMLSchema" xmlns:pns="http://traitements" qname="pns:Ville_recherche" type="tns:string"/>
+      </operation>
+      <operation xmlns:operNS="http://traitements" name="listons" qname="operNS:Listons" soapAction="">
+      </operation>
+      <parameter name="allowedMethods" value="lister listerCpEtVilleParZoneChalandise listerCpEtVilleParZoneSecondaire listerVille listons"/>
+
+      <typeMapping xmlns:ns="http://traitements" qname="ns:&gt;listerCpEtVilleParZoneChalandiseResponse" type="java:traitements.ListerCpEtVilleParZoneChalandiseResponse" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+      <typeMapping xmlns:ns="http://traitements" qname="ns:&gt;listerCpEtVilleParZoneSecondaire" type="java:traitements.ListerCpEtVilleParZoneSecondaire" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+      <typeMapping xmlns:ns="http://traitements" qname="ns:&gt;listerVille" type="java:traitements.ListerVille" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+      <typeMapping xmlns:ns="http://traitements" qname="ns:&gt;listerVilleResponse" type="java:traitements.ListerVilleResponse" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+      <typeMapping xmlns:ns="http://traitements" qname="ns:&gt;listerCpEtVilleParZoneChalandise" type="java:traitements.ListerCpEtVilleParZoneChalandise" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+      <typeMapping xmlns:ns="http://traitements" qname="ns:&gt;lister" type="java:traitements.Lister" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+      <typeMapping xmlns:ns="http://traitements" qname="ns:&gt;Listons" type="java:traitements.Listons" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+      <typeMapping xmlns:ns="http://traitements" qname="ns:&gt;listerCpEtVilleParZoneSecondaireResponse" type="java:traitements.ListerCpEtVilleParZoneSecondaireResponse" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+      <typeMapping xmlns:ns="http://traitements" qname="ns:&gt;listerResponse" type="java:traitements.ListerResponse" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+      <typeMapping xmlns:ns="http://traitements" qname="ns:&gt;ListonsResponse" type="java:traitements.ListonsResponse" serializer="org.apache.axis.encoding.ser.BeanSerializerFactory" deserializer="org.apache.axis.encoding.ser.BeanDeserializerFactory" encodingStyle=""/>
+      <arrayMapping xmlns:ns="http://traitements" xmlns:cmp-ns="http://www.w3.org/2001/XMLSchema" qname="ns:ArrayOf_xsd_anyType" type="java:java.lang.Object[]" innerType="cmp-ns:anyType" encodingStyle=""/>
+  </service>
+</deployment>

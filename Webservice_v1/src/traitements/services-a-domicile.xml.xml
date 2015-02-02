@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<societes>
+  <societe id="323" itemid="0" intitule="ALENCON " intitule_complement="" zone_chalandise_tab=" 93	4 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="53 quai Henri Dunant" complement="" cp="61000" ville="ALENCON" lat="48.428582" lng="0.091535"/>
+    <contact tel="02 33 26 55 70" fax="02 33 26 58 90" mobile="" telint="4280" mail="msalencon@maison-et-services.com" googleplusid="11605767979549163352"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR79 492353560" numrcs="492 353 560" villercs="ALENCON" raison_sociale="MAISON &amp; SERVICES ALENCON" objet_sociale="Exercice de toute activité de services aux particuliers" ape_naf="9609Z" siret="492 353 560 00021" enseigne="" num_rm="" sigle="" gerant1="Patrice DENIAU" gerant2="" gerant3="" num_autorisation="R/081111/F/061/S/017" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="325" itemid="0" intitule="ANGERS " intitule_complement="" zone_chalandise_tab=" 6  5 ">
+    <activite type="Propres" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="ZA Grand Maison" complement="120 rue Louis Pasteur" cp="49800" ville="TRELAZE" lat="47.445492" lng="-0.47045"/>
+    <contact tel="02 41 69 67 67" fax="02 41 69 98 10" mobile="" telint="4330" mail="msangers@maison-et-services.com" googleplusid="103804198718497527896"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="50 000,00" tva="FR14 484575949" numrcs="484 575 949" villercs="ANGERS " raison_sociale="MAISON &amp; SERVICES ANGERS " objet_sociale="Exercice de toute activité de services aux particuliers" ape_naf="9609Z" siret="484 575 949 00025" enseigne="" num_rm="484575949RM49" sigle="" gerant1="Patrice DENIAU" gerant2="" gerant3="" num_autorisation="R/100211/F/049/S/009" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage="RCMSANGERS"/>
+  </societe>
+  <societe id="326" itemid="0" intitule="ANGOULEME " intitule_complement="" zone_chalandise_tab=" 215 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="114, rue d'Angoulême" complement="" cp="16400" ville="PUYMOYEN" lat="45.62451" lng="0.159462"/>
+    <contact tel="05 45 66 22 11" fax="" mobile="" telint="" mail="msangouleme@maison-et-services.com" googleplusid="100324681863939269357"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR87 503618399" numrcs="503 618 399" villercs="ANGOULEME" raison_sociale="Société CAVALIE" objet_sociale="" ape_naf="9609Z" siret="503 618 399 00011" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="SAP503618399" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="625" itemid="0" intitule="ANNECY" intitule_complement="" zone_chalandise_tab=" 210 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="37 Avenue De Novel" complement="" cp="74000" ville="ANNECY" lat="45.9141637" lng="6.1284636999999975"/>
+    <contact tel="04 50 08 89 21" fax="" mobile="" telint="" mail="msannecy@maison-et-services.com" googleplusid=""/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="8 000,00" tva="FR48 507863397" numrcs="507 863 397" villercs="ANNECY" raison_sociale="ALPES SERVICES A DOMICILE" objet_sociale="" ape_naf="9609Z" siret="507 863 397 00018" enseigne="" num_rm="" sigle="" gerant1="Ludovic LAGOUTTE" gerant2="" gerant3="" num_autorisation="N/011008/F/074/S/015" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="328" itemid="0" intitule="ANTONY " intitule_complement="" zone_chalandise_tab=" 99 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="47bis rue Aristide Briand" complement="" cp="92160" ville="ANTONY" lat="48.756396" lng="2.306359"/>
+    <contact tel="01 40 96 00 00" fax="" mobile="" telint="" mail="msantony@maison-et-services.com" googleplusid="102067136677565508867"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 800,00" tva="FR05 490932647" numrcs="490 932 647" villercs="NANTERRE" raison_sociale="SLN SERVICES " objet_sociale="" ape_naf="8810A" siret="490 932 647 00012" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="R/020811/F/092/S/087" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="329" itemid="0" intitule="ARCACHON " intitule_complement="" zone_chalandise_tab=" 44 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="501 Av Gustave Eiffel" complement="" cp="33260" ville="LA TESTE DE BUCH" lat="44.610723" lng="-1.1263999999999896"/>
+    <contact tel="05 56 66 75 95" fax="" mobile="" telint="" mail="msarcachon@maison-et-services.com" googleplusid="103193167328704022978"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="6 000,00" tva="FR20 521615401" numrcs="521 615 401" villercs="BORDEAUX" raison_sociale="SOPHAL" objet_sociale="" ape_naf="9609Z" siret="521 615 401 00010" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/140410/F/033/S/058" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="331" itemid="0" intitule="BESANCON " intitule_complement="" zone_chalandise_tab=" 175 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="10 rue Lavoisier" complement="" cp="25000" ville="BESANCON" lat="47.235518 " lng="5.982768"/>
+    <contact tel="03 81 50 82 45" fax="" mobile="" telint="" mail="msbesancon@maison-et-services.com" googleplusid="105838629131564531566"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR74 501688709" numrcs="501 688 709" villercs="BESANCON" raison_sociale="ACG SERVICES" objet_sociale="" ape_naf="747 Z" siret="501 688 709 00028" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/290108/F/025/S/022" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="332" itemid="0" intitule="BLOIS " intitule_complement="" zone_chalandise_tab=" 171 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="44 bis rue Bossuet" complement="" cp="41000" ville="BLOIS" lat="47.5894883" lng="1.3183138"/>
+    <contact tel="02 54 56 13 01" fax="" mobile="" telint="" mail="msblois@maison-et-services.com" googleplusid="103572833986806884169"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR07 499371292" numrcs="499 371 292" villercs="BLOIS" raison_sociale="MAISON &amp; SERVICES BLOIS" objet_sociale="Exercice de toute activité de services auprès des particuliers" ape_naf="9609Z" siret="499 371 292 00024" enseigne="MAISON " num_rm="" sigle="" gerant1="Cyrille HENAULT" gerant2="" gerant3="" num_autorisation="SAP499371292" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="333" itemid="0" intitule="BOURGES " intitule_complement="" zone_chalandise_tab=" 174 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="286 rue de Malitorne" complement="" cp="18230" ville="SAINT DOULCHARD" lat="47.106052 " lng="2.383332"/>
+    <contact tel="02 48 65 79 16" fax="" mobile="" telint="" mail="msbourges@maison-et-services.com" googleplusid="114035678547147173331"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="7 500,00" tva="FR33 501069512" numrcs="501 069 512" villercs="BOURGES" raison_sociale="GILAU" objet_sociale="" ape_naf="930 N" siret="501 069 512 00017" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="SAP501069512" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="627" itemid="0" intitule="BRESSUIRE" intitule_complement="" zone_chalandise_tab=" 360 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="217 boulevard de Poitiers" complement="" cp="79300" ville="BRESSUIRE" lat="46.83336680000001" lng="-0.4470593999999437"/>
+    <contact tel="05 49 80 62 06" fax="" mobile="06 37 66 39 65" telint="" mail="msbressuire@maison-et-services.com" googleplusid="112208979044431723569"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR49 803406651" numrcs="803 406 651" villercs="NIORT" raison_sociale="BOCA SERVICES" objet_sociale="Exercice de toute activité de services aux particuliers " ape_naf="8810A" siret="803 406 651 00015" enseigne="MAISON " num_rm="" sigle="" gerant1="Cyril CHARRON" gerant2="Caroline CHARRON" gerant3="" num_autorisation="" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="616" itemid="0" intitule="BREST" intitule_complement="" zone_chalandise_tab=" 230 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="13 rue Alexis Clairaut" complement="" cp="29200" ville="BREST" lat="48.39059" lng="-4.4869"/>
+    <contact tel="02 98 02 38 05" fax="" mobile="" telint="" mail="msbrest@maison-et-services.com" googleplusid="110606121582760325152"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR70 448067819" numrcs="448 067 819" villercs="BREST" raison_sociale="DOMIROISE" objet_sociale="" ape_naf="9609Z" siret="448 067 819 00020" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="R/190411/F/029/F/013" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="376" itemid="0" intitule="BRIGNAIS" intitule_complement="" zone_chalandise_tab=" 128 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="Parc d'affaire Brignais 2000" complement="Route de Lyon" cp="69530" ville="BRIGNAIS" lat="45.67944" lng="4.77504"/>
+    <contact tel="04 78 73 36 70" fax="04 78 56 61 98" mobile="" telint="" mail="info-sgl@mslyon.com" googleplusid="108888709135317557480"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="600,00" tva="FR37 501753040" numrcs="501 753 040" villercs="Lyon" raison_sociale="SARL Actisud Services" objet_sociale="" ape_naf="8129 B " siret="501 753 040 00028" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/180308/F/069/S/024" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="335" itemid="0" intitule="CAEN " intitule_complement="" zone_chalandise_tab=" 102 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="5 bis Allée de la Verte Vallée" complement="" cp="14000" ville="CAEN" lat="49.1924556" lng=" -0.3754439"/>
+    <contact tel="02 31 24 24 24" fax="" mobile="" telint="" mail="mscaen@maison-et-services.com" googleplusid="105284667411631236920"/>
+    <administratif siege_sociale="0" formeSociale="EURL" capital="5 000,00" tva="FR76 491466397" numrcs="491 466 397" villercs="CAEN" raison_sociale="CAEN DOMICILE SERVICES" objet_sociale="" ape_naf="930 N" siret="491 466 397 00024" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="R/271011/F/014/S/019" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="617" itemid="0" intitule="CERGY-PONTOISE" intitule_complement="" zone_chalandise_tab=" 235 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="31 Bis rue Charles de Gaulle" complement="" cp="95170" ville="DEUIL LA BARRE" lat="48.9755997" lng="2.3282988"/>
+    <contact tel="01 39 84 08 98" fax="" mobile="" telint="" mail="mscergypontoise@maison-et-services.com" googleplusid="102595438331761420292"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR74 509735635" numrcs="509 735 635" villercs="PONTOISE" raison_sociale="DEMINI SERVICES" objet_sociale="" ape_naf="9609Z" siret="509 735 635 00013" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/220109/F/095/S/001" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="337" itemid="0" intitule="CHALONS EN CHAMPAGNE " intitule_complement="" zone_chalandise_tab=" 176 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="105 avenue de Metz" complement="" cp="51000" ville="CHALONS EN CHAMPAGNE" lat="48.958137" lng="4.381694"/>
+    <contact tel="03 26 26 83 17" fax="" mobile="" telint="" mail="mschalons51@maison-et-services.com" googleplusid="107707795770712658449"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR72 501823991" numrcs="501 823 991" villercs="CHALONS EN CHAMPAGNE" raison_sociale="BORDERIEUX SERVICES" objet_sociale="" ape_naf="9609Z" siret="501 823 991 00010" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="SAP/501823991" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="338" itemid="0" intitule="CHAMBERY " intitule_complement="" zone_chalandise_tab=" 163 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="ZAC de Val Fleuri" complement="Centre commercial Extension " cp="73490" ville="LA RAVOIRE" lat="45.5582719" lng="5.9628962"/>
+    <contact tel="04 79 44 41 70" fax="" mobile="" telint="" mail="mschambery@maison-et-services.com" googleplusid="105237073396827739705"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR62 497959734" numrcs="497 959 734" villercs="CHAMBERY" raison_sociale="MAISON &amp; SERVICES CHAMBERY" objet_sociale="Exercice de toute activité de services aux particuliers" ape_naf="9609Z" siret="497 959 734 00011" enseigne="MAISON " num_rm="" sigle="" gerant1="Ludovic GUILLAND" gerant2="" gerant3="" num_autorisation="SAP497959734" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="340" itemid="0" intitule="CHARTRES " intitule_complement="" zone_chalandise_tab=" 193 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="38 rue des artisans" complement="Locaux E-F" cp="28630" ville="MORANCEZ " lat="48.403009" lng="1.496042"/>
+    <contact tel="02 37 34 55 47" fax="" mobile="" telint="" mail="mschartres@maison-et-services.com" googleplusid="108364054343963204557"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR65 503281446" numrcs="503 281 446" villercs="CHARTRES" raison_sociale="MAISON &amp; SERVICES CHARTRES" objet_sociale="Exercice de toute activité de services auprès des particuliers " ape_naf="9609Z" siret="503 281 446 00024" enseigne="MAISON " num_rm="" sigle="" gerant1="Patrice DENIAU" gerant2="Yannick HENRY" gerant3="" num_autorisation="SAP503281446" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="341" itemid="0" intitule="CHATEAU-GONTIER" intitule_complement="" zone_chalandise_tab=" 3 ">
+    <activite type="Propres" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="8 rue de la Petite Lande" complement="ZA du Chemin" cp="53200" ville="CHATEAU-GONTIER" lat="47.843932" lng=" -0.790747"/>
+    <contact tel="02 43 06 92 49" fax="02 43 07 63 46" mobile="" telint="" mail="ms53200@maison-et-services.com" googleplusid="105620873674347329828"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR43 801404278" numrcs="801 404 278" villercs="LAVAL" raison_sociale="MAISON &amp; SERVICES HAUT ANJOU" objet_sociale="Exercice de toutes activités de services aux particuliers " ape_naf="9609Z" siret="801 404 278 00013" enseigne="MAISON " num_rm="" sigle="" gerant1="Grégory MEZIERE" gerant2="" gerant3="" num_autorisation="SAP801404278" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage="RCMSHA"/>
+  </societe>
+  <societe id="614" itemid="0" intitule="CHATEAUGIRON" intitule_complement="" zone_secondaire_tab=" 408 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="Parc d'Activité de Beaujardin" complement="Bat C" cp="35410" ville="CHATEAUGIRON" lat="48.048488" lng="-1.5031480000000101"/>
+    <contact tel="02 99 00 04 09" fax="" mobile="" telint="" mail="mschateaugiron@maison-et-services.com" googleplusid="113163600393944375136"/>
+    <administratif siege_sociale="407" siret="538 617 549 00034"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="628" itemid="0" intitule="CHATELLERAULT" intitule_complement="" zone_chalandise_tab=" 361 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="6 av Adrien Treuille" complement="" cp="86100" ville="CHATELLERAULT" lat="46.81833049999999" lng="0.5469479999999294"/>
+    <contact tel="05 49 85 03 66" fax="" mobile="" telint="" mail="mschatellerault@maison-et-services.com" googleplusid=""/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR64 521825356" numrcs="521 825 356" villercs="NANTES" raison_sociale="CAPHO2" objet_sociale="" ape_naf="9609Z" siret="521 825 356 00012" enseigne="" num_rm="" sigle="" gerant1="Patrick HERBRETEAU" gerant2="" gerant3="" num_autorisation="" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="342" itemid="0" intitule="CHELLES " intitule_complement="" zone_chalandise_tab=" 312 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="62 avenue Jean Jaurès" complement="" cp="77177" ville="BROU SUR CHANTEREINE" lat="48.8801474" lng="2.6280518"/>
+    <contact tel="01 64 21 68 49" fax="" mobile="" telint="" mail="mschelles@maison-et-services.com" googleplusid="108275177057153010799"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR32 512263732" numrcs="512 263 732" villercs="Meaux" raison_sociale="M.Y Home Services" objet_sociale="" ape_naf="9609Z" siret="512 263 732 00012" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/210709/F/077/S/324" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="344" itemid="0" intitule="CLAMART " intitule_complement="" zone_chalandise_tab=" 167 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="127 bis av Marguerite Renaudin" complement="" cp="92140" ville="CLAMART" lat="48.806642" lng="2.273946"/>
+    <contact tel="01 46 62 04 73" fax="" mobile="" telint="" mail="msclamart@maison-et-services.com" googleplusid="110759669927670706193"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="5 500,00" tva="FR01 791055916" numrcs="791 055 916" villercs="NANTERRE" raison_sociale="LN2 SERVICES A DOMICILE" objet_sociale="" ape_naf="9609Z" siret="791 055 916 0021" enseigne="Maison " num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="SAP791055916" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="347" itemid="0" intitule="COUTANCES " intitule_complement="" zone_secondaire_tab=" 421 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="41 bd Alsace Lorraine" complement="" cp="50200" ville="COUTANCES" lat="49.050099" lng="-1.446675"/>
+    <contact tel="02 33 17 08 57" fax="" mobile="" telint="" mail="mscoutances@maison-et-services.com" googleplusid="104756588360841551199"/>
+    <administratif siege_sociale="360" siret="750 507 170 00033"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="378" itemid="0" intitule="CRAPONNE" intitule_complement="" zone_chalandise_tab=" 53 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="5 Av Edouard Millaud" complement="" cp="69290" ville="CRAPONNE" lat="45.74695699999999" lng="4.7449080000000095"/>
+    <contact tel="04 74 60 68 15" fax="" mobile="" telint="" mail="info-loz@mslyon.com" googleplusid="111844024661682152116"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR29 801213927" numrcs="801 213 927" villercs="LYON" raison_sociale="ActiWest Services" objet_sociale="" ape_naf="8129 B" siret="801 213 927 00016" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="2006-1.69.0095" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="351" itemid="0" intitule="DIJON" intitule_complement="" zone_chalandise_tab=" 157  156 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="11 rue de Mulhouse" complement="" cp="21000" ville="DIJON" lat="47.3259937" lng="5.0486644"/>
+    <contact tel="03 80 73 42 13" fax="" mobile="" telint="" mail="msdijonsud@maison-et-services.com" googleplusid="112767011877679176599"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR69 494697303" numrcs="494 697 303" villercs="DIJON" raison_sociale="DAN SERVICES" objet_sociale="" ape_naf="8129 B" siret="494 697 303 00019" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/270307/F/021/S/043" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="633" itemid="0" intitule="DINAN" intitule_complement="" zone_secondaire_tab="">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="Lieu-dit Bois Hus" complement="" cp="22100" ville="QUEVERT" lat="48.442908" lng="-2.0875200000000405"/>
+    <contact tel="02 96 85 20 32" fax="" mobile="" telint="" mail="" googleplusid=""/>
+    <administratif siege_sociale="615" siret="750 642 639 00017"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="352" itemid="0" intitule="DOLE " intitule_complement="" zone_chalandise_tab=" 146 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="74 rue des Arènes" complement="" cp="39100" ville="DOLE" lat="47.090218" lng="5.489577"/>
+    <contact tel="03 84 72 42 13" fax="" mobile="" telint="" mail="msdole@maison-et-services.com" googleplusid="110562882633636693586"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="7 500,00" tva="FR10 494540305" numrcs="494 540 305" villercs="DOLE" raison_sociale="JURA DOM SERVICES" objet_sociale="" ape_naf="8129 B" siret="494 540 305 00021" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/190307/F/039/S/015" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="353" itemid="0" intitule="EPINAL " intitule_complement="" zone_chalandise_tab=" 106 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="64 rue d'Alsace" complement="" cp="88000" ville="EPINAL" lat="48.165663" lng="6.447328"/>
+    <contact tel="03 29 82 21 00" fax="" mobile="" telint="" mail="msepinal@maison-et-services.com" googleplusid="108850542883712863576"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="20 000,00" tva="FR72 489900266" numrcs="489 900 266" villercs="EPINAL" raison_sociale="ASSISTADOM" objet_sociale="" ape_naf="930 N" siret="489 900 266 00037" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="2006-1.88.03" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="354" itemid="0" intitule="ERMONT " intitule_complement="" zone_chalandise_tab=" 107 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="200 chaussée Jules César" complement="" cp="95250" ville="BEAUCHAMP" lat="49.014394 " lng="2.181817"/>
+    <contact tel="01 30 40 09 10" fax="01 30 40 15 02" mobile="" telint="" mail="msermont@maison-et-services.com" googleplusid="108483206643013486432"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="7 500,00" tva="FR95 492006176" numrcs="492 006 176" villercs="PONTOISE" raison_sociale="VAL NETT'OISE" objet_sociale="" ape_naf="8129 B" siret="492 006 176 00019" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="R/231011/F/095/S/084" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="357" itemid="0" intitule="ESSONNE" intitule_complement="" zone_chalandise_tab=" 108  168  342 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="23 rue Tournenfils" complement="" cp="91540" ville="ORMOY" lat="48.57121" lng="2.449961"/>
+    <contact tel="01 64 57 11 59" fax="09 70 06 63 91" mobile="" telint="" mail="msevry@maison-et-services.com" googleplusid="106533600298063928023"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="8 000,00" tva="FR07 491666194" numrcs="491 666 194" villercs="EVRY" raison_sociale="QUALI-SERVICES PARTICULIERS" objet_sociale="" ape_naf="930 N" siret="491 666 194 00015" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="2006-1.91.35" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="356" itemid="0" intitule="EVREUX " intitule_complement="" zone_chalandise_tab=" 291 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="ZI Les Fontenelles" complement="Route de Louviers" cp="27190" ville="Conches en Ouche" lat="49.02108" lng="0.9809"/>
+    <contact tel="02 32 31 60 21" fax="" mobile="" telint="" mail="msevreux@maison-et-services.com" googleplusid="111567659145103525401"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="7 500,00" tva="FR88 497967729" numrcs="497 967 729" villercs="EVREUX" raison_sociale="AS2P" objet_sociale="" ape_naf="" siret="497 967 729 00011" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="631" itemid="0" intitule="FONTAINEBLEAU" intitule_complement="" zone_chalandise_tab=" 353 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="93 Avenue Saint Just" complement="" cp="77000" ville="VAUX LE PENIL" lat="48.53432100000001" lng="2.6767772000000605"/>
+    <contact tel="01 64 39 55 80" fax="" mobile="" telint="" mail="msmelun@maison-et-services.com" googleplusid=""/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="8 000,00" tva="FR34 493317531" numrcs="493 317 531" villercs="MELUN" raison_sociale="MELUN SENART SERVICES" objet_sociale="" ape_naf="9609Z" siret="493 317 531 00017" enseigne="Maison " num_rm="" sigle="M2S" gerant1="Christophe Moal" gerant2="" gerant3="" num_autorisation="" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="358" itemid="0" intitule="FOUGERES " intitule_complement="" zone_chalandise_tab=" 37  36 ">
+    <activite type="Propres" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="25 rue de l'Yser" complement="" cp="35300" ville="FOUGERES" lat="48.342817 " lng="-1.201505"/>
+    <contact tel="02 99 99 57 70" fax="" mobile="" telint="" mail="ms35300@maison-et-services.com" googleplusid="111710850479132364617"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="18 000,00" tva="FR53 453709883" numrcs="453 709 883" villercs="RENNES" raison_sociale="MAISON &amp; SERVICES FOUGERES VITRE" objet_sociale="Exercice de toute activité de services aux particuliers" ape_naf="9609Z" siret="453 709 883 00012" enseigne="" num_rm="453709883RM35" sigle="" gerant1="Patrice DENIAU" gerant2="Didier GUEGUEN" gerant3="" num_autorisation="R/300911/F/035/S/653" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage="RCMSFV"/>
+  </societe>
+  <societe id="619" itemid="0" intitule="GARENNE COLOMBES" intitule_complement="" zone_chalandise_tab=" 220 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="22 bis/ter rue Léon Maurice Nordmann" complement="" cp="92250" ville="LA GARENNE COLOMBES" lat="48.9039403" lng="2.241205499999978"/>
+    <contact tel="01 46 49 02 24" fax="" mobile="" telint="" mail="mscourbevoie@maison-et-services.com" googleplusid="117669725617823164005"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR04 791775075" numrcs="791 775 075" villercs="NANTERRE" raison_sociale="VESTA SERVICES" objet_sociale="" ape_naf="9609Z" siret="791 775 075 00017" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="SAP791775075" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="360" itemid="0" intitule="GRANVILLE " intitule_complement="" zone_chalandise_tab=" 144 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="74 rue Couraye " complement="" cp="50400" ville="GRANVILLE" lat="48.8370866" lng="-1.5935269999999946"/>
+    <contact tel="02 33 51 76 76" fax="" mobile="" telint="" mail="msgranville@maison-et-services.com" googleplusid="116804776700641032155"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR08 750507170" numrcs="750 507 170" villercs="Coutances" raison_sociale="LILIPAUL" objet_sociale="" ape_naf="9609Z" siret="750 507 170 00041" enseigne="" num_rm="" sigle="" gerant1="Sandrine FOURRE" gerant2="" gerant3="" num_autorisation="SAP750507170" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="364" itemid="0" intitule="LA FERTE BERNARD" intitule_complement="" zone_chalandise_tab=" 227 ">
+    <activite type="Propres" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="ZAC de la Bretonnière" complement="" cp="72400" ville="CHERREAU" lat="48.190642" lng="0.661555"/>
+    <contact tel="02 43 71 47 12" fax="" mobile="" telint="" mail="mslaferte@maison-et-services.com" googleplusid="115424903223384735448"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR51 803493402" numrcs="803 493 402" villercs="LE MANS" raison_sociale="MAISON &amp; SERVICES PERCHE" objet_sociale="Exercice de toute activité de services auprès des particuliers" ape_naf="9609Z" siret="803 493 402 00017" enseigne="" num_rm="" sigle="" gerant1="Jérôme MOGIS" gerant2="" gerant3="" num_autorisation="SAP803493402" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="365" itemid="0" intitule="LA FLECHE " intitule_complement="" zone_chalandise_tab=" 109 ">
+    <activite type="Propres" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="ZAC de l’Espérance – Rue des Frères Chappe" complement="" cp="72200" ville="LA FLECHE" lat="47.711978" lng="-0.106497"/>
+    <contact tel="02 43 45 55 30" fax="" mobile="" telint="" mail="mssudsarthe@maison-et-services.com" googleplusid=""/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="8 000,00" tva="FR57 489804328" numrcs="489 804 328" villercs="LE MANS" raison_sociale="MAISON &amp; SERVICES SUD SARTHE " objet_sociale="Exercice de toute activité de services auprès des particuliers" ape_naf="9609Z" siret="489 804 328 00024" enseigne="" num_rm="" sigle="" gerant1="Jérome MOGIS" gerant2="" gerant3="" num_autorisation="R/140911/F/072/S/017" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage="RCMSSS"/>
+  </societe>
+  <societe id="366" itemid="0" intitule="LA ROCHELLE " intitule_complement="" zone_chalandise_tab=" 42  129 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="10, rue le Corbusier" complement="Z.I de Belle Aire Nord" cp="17440" ville="AYTRÉ" lat="46.150538" lng="-1.159197"/>
+    <contact tel="05 46 37 37 36" fax="" mobile="" telint="" mail="mslarochelle@maison-et-services.com" googleplusid="111438932415847645859"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR37 488684424" numrcs="488 684 424" villercs="LA ROCHELLE" raison_sociale="A VOTRE SERVICE" objet_sociale="" ape_naf="930 N" siret="488 684 424 00036" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="R/300311/F/017/S/016" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="610" itemid="0" intitule="LAMBALLE" intitule_complement="" zone_secondaire_tab=" 422 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="Z.I. du Ventoué" complement="" cp="22400" ville="LAMBALLE" lat="48.468711" lng="-2.549362999999971"/>
+    <contact tel="02 96 31 38 03" fax="" mobile="" telint="" mail="mslamballe@maison-et-services.com" googleplusid=""/>
+    <administratif siege_sociale="415" siret="488 528 985 00010"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="367" itemid="0" intitule="LAVAL " intitule_complement="" zone_chalandise_tab="  2  ">
+    <activite type="Propres" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="La Briquetterie" complement="" cp="53810" ville="CHANGE" lat="48.101438" lng="-0.776814"/>
+    <contact tel="02 43 53 63 64" fax="02 43 53 22 84" mobile="" telint="4980" mail="ms53000@maison-et-services.com" googleplusid="109290687031107749656"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="150 000,00" tva="FR35 423196393" numrcs="423 196 393" villercs="LAVAL" raison_sociale="MAISON &amp; SERVICES" objet_sociale="exercice de toute activité de services aux particuliers" ape_naf="9609Z" siret="423 196 393 00072" enseigne="" num_rm="423196393RM53" sigle="" gerant1="Patrice DENIAU" gerant2="" gerant3="" num_autorisation="SAP423196393" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage="RCMSCHANGE"/>
+  </societe>
+  <societe id="369" itemid="0" intitule="LE MANS " intitule_complement="" zone_chalandise_tab=" 17  227 ">
+    <activite type="Propres" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="25 Avenue Jean Jaurès" complement="" cp="72000" ville="LE MANS" lat="47.99254699999999" lng="0.20508319999999003"/>
+    <contact tel="02 43 24 58 05" fax="02 43 23 12 07" mobile="" telint="" mail="ms72000@maison-et-services.com" googleplusid="101514060527113970604"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="7 500,00" tva="FR01 479773798" numrcs="479 773 798" villercs="LE MANS" raison_sociale="MAISON &amp; SERVICES LE MANS" objet_sociale="Exercice de toute activité de services aux particuliers " ape_naf="9609Z" siret="479 773 798 00042" enseigne="" num_rm="" sigle="" gerant1="Jérome MOGIS" gerant2="" gerant3="" num_autorisation="R/131011/F/072/S/018" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage="RCMSLM"/>
+  </societe>
+  <societe id="550" itemid="0" intitule="LES HERBIERS" intitule_complement="" zone_secondaire_tab=" 412 ">
+    <activite type="Propres" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="ZI de la Guerche - Rue de l'Industrie" complement="" cp="85500" ville="LES HERBIERS" lat="46.86919" lng="-1.0133879999999635"/>
+    <contact tel="02 51 64 81 85" fax="" mobile="" telint="" mail="mslesherbiers@maison-et-services.com" googleplusid=""/>
+    <administratif siege_sociale="325" siret="484 575 949 00041"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="370" itemid="0" intitule="LIMOGES " intitule_complement="" zone_chalandise_tab=" 112 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="31 Av. du Général Leclerc" complement="" cp="87100" ville="LIMOGES" lat="45.8418692" lng="1.2584735"/>
+    <contact tel="05 55 49 44 03" fax="" mobile="" telint="" mail="mslimoges@maison-et-services.com" googleplusid="106494812422295893713"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="7 000,00" tva="FR68 492141676" numrcs="492 141 676" villercs="LIMOGES" raison_sociale="UNIVERS DES SERVICES" objet_sociale="" ape_naf="9609z" siret="492 141 676 00022" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="2006-1.87.41" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="374" itemid="0" intitule="LYON " intitule_complement="" zone_chalandise_tab=" 164 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="26 rue Tronchet" complement="" cp="69006" ville="LYON" lat="45.769736" lng="4.846661"/>
+    <contact tel="04 72 43 98 07" fax="" mobile="" telint="" mail="mslyoncentre@maison-et-services.com" googleplusid="118324032525559478002"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR90 498329960" numrcs="498 329 960" villercs="LYON" raison_sociale="MAISON &amp; SERVICES LYON" objet_sociale="Exercice de toute activité de services auprès des particuliers " ape_naf="9609Z" siret="498 329 960 00013" enseigne="MAISON " num_rm="" sigle="" gerant1="Pascal HAYS " gerant2="" gerant3="" num_autorisation="SAP498329960" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="620" itemid="0" intitule="LYON EST" intitule_complement="" zone_chalandise_tab=" 162 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="320 avenue Berthelot" complement="" cp="69008" ville="LYON" lat="45.737365" lng="4.86613"/>
+    <contact tel="04 72 78 30 60" fax="" mobile="" telint="" mail="mslyonsud@maison-et-services.com" googleplusid="114355844441654241492"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR12 497917393" numrcs="497 917 393" villercs="LYON" raison_sociale="FR SERVICES" objet_sociale="" ape_naf="930 N" siret="479 917 393 00041" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/120607/F/069/S/229" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="379" itemid="0" intitule="MAISONS ALFORT " intitule_complement="" zone_chalandise_tab=" 173  341 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="60 rue Guy Môquet" complement="" cp="94700" ville="MAISONS ALFORT" lat="48.8134281" lng="2.4402643"/>
+    <contact tel="01 43 75 91 01" fax="" mobile="" telint="" mail="msmaisonsalfort@maison-et-services.com" googleplusid="114560850274568488553"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="8 000,00" tva="FR72 500048988" numrcs="500 048 988" villercs="CRETEIL" raison_sociale="ABCLEAR'NET" objet_sociale="" ape_naf="930N" siret="500 048 988 00025" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/280907/F/094/S/050" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="380" itemid="0" intitule="MAISONS-LAFFITTE " intitule_complement="" zone_chalandise_tab=" 70  343 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="22 rue Masson" complement="" cp="78600" ville="MAISONS-LAFFITTE" lat="48.94557" lng="2.146896"/>
+    <contact tel="01 39 62 50 05" fax="" mobile="" telint="" mail="msmaisonslaffitte@maison-et-services.com" googleplusid="117934569656542339197"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="8 000,00" tva="FR31 532059524" numrcs="532 059 524" villercs="VERSAILLES" raison_sociale="DOMNET SERVICES" objet_sociale="" ape_naf="930 N" siret="532 059 524 00027" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="639" itemid="0" intitule="MARSEILLE" intitule_complement="" zone_chalandise_tab=" 46 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="10 place de la Joliette" complement="4e étage" cp="13567" ville="MARSEILLE Cedex 2" lat="43.3052543" lng="5.366019300000062"/>
+    <contact tel="06 21 05 13 79" fax="" mobile="" telint="" mail="conciergerie@lesdocks-marseille.fr" googleplusid=""/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="" tva="" numrcs="" villercs="MARSEILLE" raison_sociale="Maison et Services Marseille" objet_sociale="" ape_naf="9609Z" siret="" enseigne="" num_rm="" sigle="" gerant1="Clément BEYRAND" gerant2="" gerant3="" num_autorisation="" num_convention=" " libelle_convention=""/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="622" itemid="0" intitule="MARTINIQUE" intitule_complement="" zone_chalandise_tab=" 232  289  288 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="25 rue du Père Delawarde" complement="" cp="97200" ville="FORT DE FRANCE" lat="14.6330488" lng="-61.07955149999998"/>
+    <contact tel="05 96 64 63 90" fax="" mobile="" telint="" mail="msantilles@maison-et-services.com" googleplusid="100411782856918298186"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="7 500,00" tva="FR43 504666728" numrcs="504 666 728" villercs="FORT DE FRANCE" raison_sociale="PREST'ANTILLES SARL" objet_sociale="" ape_naf="" siret="504 666 728 00010" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="382" itemid="0" intitule="MAYENNE " intitule_complement="" zone_secondaire_tab=" 428 ">
+    <activite type="Propres" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="612 rue de Grinhard" complement="" cp="53100" ville="MAYENNE" lat="48.293616" lng="-0.606682"/>
+    <contact tel="02 43 04 54 40" fax="" mobile="" telint="" mail="ms53100@maison-et-services.com" googleplusid="105386161944931901451"/>
+    <administratif siege_sociale="323" siret="492 353 560 00039"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="383" itemid="0" intitule="MELUN " intitule_complement="" zone_chalandise_tab=" 115 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="93 avenue Saint Just" complement="" cp="77000" ville="VAUX LE PENIL" lat="48.53432100000001" lng="2.6767772000000605"/>
+    <contact tel="01 64 39 55 80" fax="" mobile="" telint="" mail="msmelun@maison-et-services.com" googleplusid="104425335777439843413"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="8 000,00" tva="FR34 493317531" numrcs="493 317 531" villercs="MELUN" raison_sociale="MELUN SENART SERVICES" objet_sociale="" ape_naf="9609Z" siret="493 317 531 00017" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="SAP493317531" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="385" itemid="0" intitule="METZ " intitule_complement="" zone_chalandise_tab=" 117 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="4 rue de la Gillière" complement="ZAC Euromoselle" cp="57140" ville="NORROY LE VENEUR" lat="49.1785654" lng="6.150505399999929"/>
+    <contact tel="03 87 75 57 46" fax="" mobile="" telint="" mail="msmetz@maison-et-services.com" googleplusid="111328672493004659939"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="8 000,00" tva="FR82 491399663" numrcs="491 399 663" villercs="THIONVILLE" raison_sociale="LHS LORRAINE HOM' SERVICES" objet_sociale="" ape_naf="" siret="491 399 663" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="R/10911/F/057/S/049" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="387" itemid="0" intitule="MONTMORENCY " intitule_complement="" zone_chalandise_tab=" 239 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="31 Bis rue Charles de Gaulle" complement="" cp="95170" ville="DEUIL LA BARRE" lat="48.9755997" lng="2.3282988"/>
+    <contact tel="01 39 84 08 98" fax="" mobile="" telint="" mail="msmontmorency@maison-et-services.com" googleplusid="117339963330012786471"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR74 509735635" numrcs="509 735 635" villercs="PONTOISE" raison_sociale="DEMINI SERVICES" objet_sociale="" ape_naf="9609Z" siret="509 735 635 00013" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/220109/F/095/S/001" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="621" itemid="0" intitule="MONTROUGE" intitule_complement="" zone_chalandise_tab=" 334 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="127 Bis Avenue Marguerite Renaudin" complement="" cp="92140" ville="CLAMART" lat="48.8083998" lng="2.2743725000000268"/>
+    <contact tel="01 46 62 04 73" fax="" mobile="" telint="" mail="msmontrouge@maison-et-services.com" googleplusid="108300269220850439992"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="5 500,00" tva="FR01 791055916" numrcs="791 055 916" villercs="NANTERRE" raison_sociale="LN2 SERVICES A DOMICILE" objet_sociale="" ape_naf="9609Z" siret="791 055 916 00021" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="SAP791055916" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="389" itemid="0" intitule="NANCY " intitule_complement="" zone_chalandise_tab=" 195 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="870 rue Denis Papin" complement="Dynapôle" cp="54715" ville="LUDRES" lat="48.6124255" lng="6.1886331"/>
+    <contact tel="03 83 29 99 88" fax="03 83 29 99 89" mobile="" telint="" mail="msnancyest@maison-et-services.com" googleplusid="110446964754009931878"/>
+    <administratif siege_sociale="0" formeSociale="EURL" capital="8 000,00" tva="FR44 520915554" numrcs="520 915 554" villercs="NANCY" raison_sociale="SDN SERVICES DOMICILE NANCY" objet_sociale="" ape_naf="9609 Z" siret="520 915 554 00015" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="SAP750997538" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="390" itemid="0" intitule="NANTES " intitule_complement="" zone_chalandise_tab=" 19 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="350 rue de l'Etier" complement="" cp="44300" ville="NANTES" lat="47.2228894" lng="-1.5057103999999981"/>
+    <contact tel="02 40 25 02 03" fax="" mobile="" telint="" mail="msnantes@maison-et-services.com" googleplusid="113340424808094113150"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR82 514650175" numrcs="514 650 175" villercs="Nantes" raison_sociale="ATOUT NET" objet_sociale="" ape_naf="8121z" siret="514 650 175 00029" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/061009/F/044/S/111" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="393" itemid="0" intitule="NIORT " intitule_complement="" zone_chalandise_tab=" 125 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="335 rue du Maréchal Leclerc" complement="" cp="79000" ville="NIORT" lat="46.342306" lng="-0.444639"/>
+    <contact tel="05 49 17 08 89" fax="05 49 17 02 58" mobile="" telint="" mail="msniort@maison-et-services.com" googleplusid="112432341958447386962"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR39 492933445" numrcs="492 933 445" villercs="NIORT" raison_sociale="MAISON &amp; SERVICES NIORT" objet_sociale="Exercice de toute activité de services aux particuliers " ape_naf="9609Z" siret="492 933 445 00024" enseigne="MAISON " num_rm="" sigle="" gerant1="Cyril CHARRON " gerant2="Caroline BOMPAS" gerant3="" num_autorisation="SAP492933445" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="395" itemid="0" intitule="NOGENT SUR MARNE " intitule_complement="" zone_chalandise_tab=" 170  326 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="7 rue Paul Bert" complement="" cp="94130" ville="NOGENT S/MARNE" lat="48.837681" lng="2.484383"/>
+    <contact tel="01 48 76 92 95" fax="" mobile="" telint="" mail="msnogent94@maison-et-services.com" googleplusid=""/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="7 500,00" tva="FR82 500830682" numrcs="500 830 682" villercs="CRETEIL" raison_sociale="LIMPEZA SERVICES" objet_sociale="" ape_naf="930 N" siret="500 830 682 00018" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/281107/F/094/S/057" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="396" itemid="0" intitule="ORLEANS " intitule_complement="" zone_chalandise_tab=" 58 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="33 rue du Faubourg Madeleine " complement="" cp="45000" ville="ORLEANS" lat="47.9008682" lng="1.8889925"/>
+    <contact tel="02 38 21 53 63" fax="" mobile="" telint="" mail="msorleans@maison-et-services.com" googleplusid="103106748736033451045"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="5 000,00" tva="FR14 528148349" numrcs="528 148 349" villercs="ORLEANS" raison_sociale="GWENMAELYA" objet_sociale="" ape_naf="9609Z" siret="528 148 349 00012" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/100111/F/045/S/265" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="397" itemid="0" intitule="PALAISEAU " intitule_complement="" zone_chalandise_tab=" 77 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="73 rue Léon Bourgeois" complement="" cp="91120" ville="PALAISEAU" lat="48.703931" lng="2.237601"/>
+    <contact tel="01 60 14 05 09" fax="01 60 14 17 95" mobile="" telint="" mail="mspalaiseau@maison-et-services.com" googleplusid="110178816822985271020"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR43 488373929" numrcs="488 373 929" villercs="EVRY" raison_sociale="A TOUSERVICES" objet_sociale="Tous services familiaux et ménagers services de proximité aux particuliers et services à la personne dans le cadre de la loi 96-63 du 29 janvier 1996 et des agréments qui s'y rattachent" ape_naf="9609Z" siret="488 373 929 00022" enseigne="MAISON " num_rm="" sigle="" gerant1="Patrice DENIAU" gerant2="" gerant3="" num_autorisation="R/310311/F/091/S/013" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="398" itemid="0" intitule="PARIS " intitule_complement="" zone_chalandise_tab=" 309 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="78 rue de Maubeuge" complement="" cp="75009" ville="PARIS" lat="48.8791837" lng="2.347962499999994"/>
+    <contact tel="01 40 61 10 00" fax="01 47 34 46 05" mobile="" telint="" mail="msparis@maison-et-services.com" googleplusid="107232128655997341761"/>
+    <administratif siege_sociale="0" formeSociale="SAS" capital="200 200,00" tva="FR05 513117614" numrcs="513 117 614" villercs="PARIS" raison_sociale="PARIS EN JAUNE ET BLEU" objet_sociale="L'exercice de toute activité des services auprès des particuliers" ape_naf="9609Z" siret="513 117 614 00026" enseigne="" num_rm="" sigle="PJB" gerant1="Hélène BOURGEADE" gerant2="" gerant3="" num_autorisation="SAP513117614" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="399" itemid="0" intitule="PAU" intitule_complement="" zone_chalandise_tab=" 126  344 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="Rue Charles Moureu" complement="" cp="64230" ville="LESCAR" lat="43.3295775" lng="-0.44454659999996693"/>
+    <contact tel="05 59 02 59 22" fax="05 59 02 44 79" mobile="" telint="" mail="msbearn@maison-et-services.com" googleplusid="116377992287071052465"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR56 494202922" numrcs="494 202 922" villercs="PAU" raison_sociale="MAISON &amp; SERVICES BEARN" objet_sociale="Exercice de toute activité de services aux particuliers " ape_naf="9609Z" siret="494 202 922 00022" enseigne="" num_rm="" sigle="" gerant1="Patrice DENIAU" gerant2="" gerant3="" num_autorisation="SAP494202922" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="400" itemid="0" intitule="PAYS BASQUE (B.A.B) " intitule_complement="" zone_chalandise_tab=" 10  345 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="50 Les Dômes" complement="Z.A de Maignon - Route de Pitoys" cp="64600" ville="ANGLET" lat="43.463529" lng="-1.511204"/>
+    <contact tel="05 59 93 11 73" fax="" mobile="" telint="" mail="mspaysbasque@maison-et-services.com" googleplusid="106834065662493667933"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="15 000,00" tva="FR00 493132864" numrcs="493 132 864" villercs="BAYONNE" raison_sociale="AGUR ETXEA" objet_sociale="" ape_naf="930 N" siret="493 132 864 00023" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="R/171111/F/064/S/041" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="613" itemid="0" intitule="PERIGUEUX" intitule_complement="" zone_chalandise_tab=" 216 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="78 Chemin de Halage" complement="" cp="24000" ville="PERIGUEUX" lat="45.182767" lng="0.70474"/>
+    <contact tel="05 53 06 14 73" fax="" mobile="" telint="" mail="msperigueux@maison-et-services.com" googleplusid="11059304863811835424"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR96 804927853" numrcs="804 927 853" villercs="PERIGUEUX" raison_sociale="DORDOGNE SERVICES" objet_sociale="La fourniture de services à la personne, dans le cadre de l'article L7231-1 et suivants du Code du travail.&#13;&#10;" ape_naf="8810 A" siret="804 927 853 00015" enseigne="Maison " num_rm="" sigle="" gerant1="Patrice DENIAU" gerant2="Bertrand CAVALIE" gerant3="" num_autorisation="SAP534375795" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="401" itemid="0" intitule="PERPIGNAN " intitule_complement="" zone_chalandise_tab=" 165 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="456 rue Jean Baptiste Biot" complement="" cp="66000" ville="PERPIGNAN" lat="42.7350586" lng="2.898264"/>
+    <contact tel="04 68 61 49 72" fax="04 68 61 56 73" mobile="" telint="" mail="msroussillon@maison-et-services.com" googleplusid=""/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR82 497690404" numrcs="497 690 404" villercs="PERPIGNAN" raison_sociale="MAISON &amp; SERVICES ROUSSILLON" objet_sociale="Exercice de toute activité de services aux particuliers " ape_naf="9609Z" siret="497 690 404 00023" enseigne="MAISON " num_rm="" sigle="" gerant1="Patrice DENIAU" gerant2="" gerant3="" num_autorisation="SAP497690404" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="402" itemid="0" intitule="POITIERS " intitule_complement="" zone_chalandise_tab=" 142 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="19 avenue du 8 mai 1945 " complement="" cp="86000" ville="POITIERS" lat="46.577525" lng="0.33969"/>
+    <contact tel="05 49 61 42 57" fax="" mobile="" telint="" mail="mspoitiers@maison-et-services.com" googleplusid="103458869431494641126"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="16 000,00" tva="FR11 493126304" numrcs="493 126 304" villercs="POITIERS" raison_sociale="VIENNE DOMI SERVICES" objet_sociale="La fourniture de tous services de proximité aux particuliers, services à la personne, garde d'enfants, assistance et accompagnement des personnes âgées, nettoyage et entretien de locaux privés, jardinage et tous travaux domestiques ou ménagers ou tout autre service à la personne" ape_naf="9609Z" siret="493 126 304 00036" enseigne="MAISON " num_rm="" sigle="" gerant1="Cyril CHARRON" gerant2="Caroline BOMPAS CHARRON" gerant3="" num_autorisation="SAP/493126304" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="404" itemid="0" intitule="PONTAULT COMBAULT " intitule_complement="" zone_chalandise_tab=" 219 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="2 rue du pré des aulnes" complement="" cp="77340" ville="PONTAULT COMBAULT" lat="48.800109" lng="2.626802"/>
+    <contact tel="01 64 40 44 23" fax="" mobile="" telint="" mail="mspontault@maison-et-services.com" googleplusid="115659194697518385569"/>
+    <administratif siege_sociale="0" formeSociale="SAS" capital="5 000,00" tva="FR88 752306191" numrcs="752 306 191" villercs="MELUN" raison_sociale="Ma Maison Nette" objet_sociale="" ape_naf="9609Z" siret="752 306 191 00012" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="SAP752306191" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="405" itemid="0" intitule="QUIMPER " intitule_complement="" zone_chalandise_tab=" 25 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="13 route de Brest" complement="" cp="29000" ville="QUIMPER" lat="47.99755386279022" lng="-4.097760915756226"/>
+    <contact tel="02 22 12 70 92" fax="" mobile="" telint="" mail="msquimper@maison-et-services.com" googleplusid="114974296083500957871"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR28 528109101" numrcs="528 109 101" villercs="QUIMPER" raison_sociale="TI HA SERVIJOU" objet_sociale="" ape_naf="9609Z" siret="528 109 101 00014" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/061210/F/029/S/126" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="618" itemid="0" intitule="RAMBOUILLET" intitule_complement="" zone_chalandise_tab=" 270 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="2 place des charmilles" complement="" cp="91160" ville="Longjumeau" lat="48.6430" lng="1.8261"/>
+    <contact tel="01 60 49 39 16" fax="" mobile="" telint="" mail="mschevreuse@maison-et-services.com" googleplusid="114399465401419608875"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="8 000,00" tva="FR74 500407630" numrcs="500 407 630" villercs="EVRY" raison_sociale="IFUN Services" objet_sociale="" ape_naf="" siret="500 407 630 00010" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="406" itemid="0" intitule="REIMS " intitule_complement="" zone_chalandise_tab=" 65 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="22 avenue de Rethel" complement="" cp="51420" ville="WITRY LES REIMS" lat="49.293336" lng="4.124818"/>
+    <contact tel="03 26 04 86 23" fax="03 26 04 86 23" mobile="" telint="" mail="msreims@maison-et-services.com" googleplusid="101399591745641366113"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="8 000,00" tva="FR66 485209829" numrcs="485 209 829" villercs="REIMS" raison_sociale="DOM SERVICES 51" objet_sociale="" ape_naf="9609" siret="485 209 829 00012" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="R/170311/F/051/S/019" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="407" itemid="0" intitule="RENNES " intitule_complement="" zone_chalandise_tab=" 35 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="26 rue de la Tremblaie" complement="" cp="35000" ville="RENNES" lat="48.087367" lng="-1.625872"/>
+    <contact tel="02 23 30 35 35" fax="02 23 30 35 34" mobile="" telint="" mail="msrennes@maison-et-services.com" googleplusid="111730078777676859953"/>
+    <administratif siege_sociale="0" formeSociale="SAS" capital="15 000,00" tva="FR81 538617549" numrcs="538 617 549" villercs="RENNES" raison_sociale="LE PELICAN" objet_sociale="" ape_naf="9609 Z" siret="538 617 549 00026" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="538617549" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="410" itemid="0" intitule="RUEIL-MALMAISON " intitule_complement="" zone_chalandise_tab=" 226 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="127 bis av Marguerite Renaudin" complement="" cp="92140" ville="CLAMART" lat="48.8651382" lng="2.2049046"/>
+    <contact tel="01 46 62 04 73" fax="" mobile="" telint="" mail="msclamart@maison-et-services.com" googleplusid="102600066712523769048"/>
+    <administratif siege_sociale="0" formeSociale="SAS" capital="42 000,00" tva="FR23 500258330" numrcs="500 258 330" villercs="NANTERRE" raison_sociale="SOLUDOM" objet_sociale="" ape_naf="9609 Z" siret="500 258 330 00017" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/031207/F/092/S/055" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="615" itemid="0" intitule="SAINT MALO" intitule_complement="" zone_chalandise_tab=" 33 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="10 rue Duguay Trouin" complement="" cp="35430" ville="SAINT JOUAN DES GUERETS" lat="48.5978735" lng="-1.9707390999999461"/>
+    <contact tel="02 99 81 46 34" fax="" mobile="" telint="" mail="msstmalo@maison-et-services.com" googleplusid="116455952117546195475"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR82 750642639" numrcs="750 642 639" villercs="ST MALO" raison_sociale="DUFAYET" objet_sociale="" ape_naf="9609 Z" siret="750 642 639 00017" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="SAP75064263" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="411" itemid="0" intitule="SAINT-LO " intitule_complement="" zone_secondaire_tab=" 420  419 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="5 Route de Carentan" complement="" cp="50000" ville="SAINT-LO" lat="49.11689" lng="-1.09428"/>
+    <contact tel="02 33 72 08 50" fax="02 33 56 12 79" mobile="" telint="" mail="msgranville@maison-et-services.com" googleplusid="104922257135814928806"/>
+    <administratif siege_sociale="360" siret="750 507 170 00025"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="549" itemid="0" intitule="SAUMUR" intitule_complement="" zone_secondaire_tab=" 414  411 ">
+    <activite type="Propres" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="ZA La Ronde - 2 Impasse de la Bibardière " complement="" cp="49650" ville="ALLONNES" lat="47.3465311" lng="-0.21654950000004192"/>
+    <contact tel="02 41 88 97 98" fax="" mobile="" telint="" mail="mssaumur@maison-et-services.com" googleplusid=""/>
+    <administratif siege_sociale="325" siret="484 575 949 00058"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="611" itemid="0" intitule="SAVENAY" intitule_complement="" zone_secondaire_tab=" 423 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="12 rue de Saint Nazaire" complement="" cp="44260" ville="SAVENAY" lat="47.3618197" lng="-1.9432888000000048"/>
+    <contact tel="02 40 73 23 55" fax="" mobile="" telint="" mail="msstnazaire@maison-et-services.com" googleplusid=""/>
+    <administratif siege_sociale="419" siret="481 439 503 00063"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="414" itemid="0" intitule="SETE " intitule_complement="" zone_chalandise_tab=" 218 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="14 Boulevard du Riverain" complement="" cp="34560" ville="POUSSAN" lat="43.488299" lng="3.669357"/>
+    <contact tel="04 99 02 32 91" fax="" mobile="" telint="" mail="mssete@maison-et-services.com" googleplusid="113926737344536671846"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR88 503681611" numrcs="503 681 611" villercs="SETE" raison_sociale="DOMISINCLAIR SERVICES" objet_sociale="" ape_naf="" siret="503 681 611 00029" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/100608/F/034/S/031" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="415" itemid="0" intitule="ST BRIEUC " intitule_complement="" zone_chalandise_tab=" 32 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="2 rue des Déportés" complement="" cp="22000" ville="SAINT BRIEUC" lat="48.5073275" lng="-2.7508444000000054"/>
+    <contact tel="02 96 76 63 73" fax="" mobile="" telint="" mail="mssaintbrieuc@maison-et-services.com" googleplusid="100555646808691476743"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="23 000,00" tva="FR96 488528985" numrcs="488 528 985" villercs="SAINT BRIEUC" raison_sociale="ARMOR MULTI SERVICES" objet_sociale="Service à la personne ; services ménagers et familiaux et tous services de proximité  aux particuliers." ape_naf="9609Z" siret="488 528 985 00028" enseigne="ARMOR MULTI SERVICES" num_rm="" sigle="" gerant1="Hassan DABCHY" gerant2="Christian FOUBERT" gerant3="" num_autorisation="R/210411/F/022/S/027" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="416" itemid="0" intitule="ST ETIENNE " intitule_complement="" zone_chalandise_tab=" 132 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="28 rue de la République" complement="" cp="42350" ville="LA TALAUDIERE" lat="45.482433" lng="4.434828"/>
+    <contact tel="04 77 53 65 03" fax="" mobile="" telint="" mail="msloire@maison-et-services.com" googleplusid="117225111195802807039"/>
+    <administratif siege_sociale="0" formeSociale="EURL" capital="7 500,00" tva="FR70 491968079" numrcs="491 968 079" villercs="ST ETIENNE" raison_sociale="IMPEC'LOGIS SERVICES" objet_sociale="" ape_naf="8129 B" siret="491 968 079 00013" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="2006-1.42.18" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="419" itemid="0" intitule="ST NAZAIRE " intitule_complement="" zone_chalandise_tab=" 38 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="24 allée Américaine" complement="" cp="44600" ville="ST NAZAIRE" lat="47.292043" lng="-2.195255"/>
+    <contact tel="02 40 15 03 57" fax="" mobile="" telint="" mail="msstnazaire@maison-et-services.com" googleplusid="103438277913344596071"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="8 000,00" tva="FR64 481439503" numrcs="481 439 503" villercs="ST NAZAIRE" raison_sociale="MAISON &amp; SERVICES COTE D'AMOUR " objet_sociale="Exercice de toute activité de services aux particuliers " ape_naf="9609Z" siret="481 439 503 00048" enseigne="" num_rm="" sigle="" gerant1="Angélique RAVINET" gerant2="" gerant3="" num_autorisation="R/311211/F/044/S/148" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage="RCMSCA"/>
+  </societe>
+  <societe id="422" itemid="0" intitule="THIONVILLE " intitule_complement="" zone_chalandise_tab=" 137 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="13 rue Abel Gance" complement="ZA du Val-Marie" cp="57100" ville="THIONVILLE CEDEX" lat="49.360143" lng="6.136099"/>
+    <contact tel="03 82 58 97 30" fax="03 82 58 97 98" mobile="" telint="" mail="msthionville@maison-et-services.com" googleplusid="116524372031861096015"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="8 000,00" tva="FR82 491399663" numrcs="491 399 663" villercs="THIONVILLE" raison_sociale="LORRAINE HOM'SERVICES" objet_sociale="" ape_naf="853 J" siret="491 399 663 00021" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="R/10911/F/057/S/049" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="579" itemid="0" intitule="TOURS" intitule_complement="" zone_chalandise_tab=" 57 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="66 rue des Douets" complement="" cp="37100" ville="TOURS" lat="47.4309269" lng="0.6868151999999554"/>
+    <contact tel="02 47 41 19 59" fax="02 47 41 13 93" mobile="" telint="" mail="mstours@maison-et-services.com" googleplusid="101560176129820504470"/>
+    <administratif siege_sociale="0" formeSociale="" capital="" tva="FR28 517798195" numrcs="517 798 195" villercs="" raison_sociale="" objet_sociale="" ape_naf="" siret="517 798 195 00015" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/181209/F/037/S/063" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="582" itemid="0" intitule="VALENCIENNES" intitule_complement="" zone_chalandise_tab=" 158 ">
+    <activite type="Filiales" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="Rue du coron des dix" complement="Zone Europescaut Lot n°4" cp="59410" ville="ANZIN" lat="50.3808932" lng="3.5242494999999963"/>
+    <contact tel="03 27 35 53 83" fax="" mobile="06 30 12 22 08" telint="" mail="msvalenciennes@maison-et-services.com" googleplusid="111614772648271189932"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="10 000,00" tva="FR28 493630354" numrcs="493 630 354" villercs="VALENCIENNES" raison_sociale="MAISON &amp; SERVICES VALENCIENNES" objet_sociale="L'exercice de toute activité de services aux particuliers" ape_naf="9609Z" siret="493 630 354 00022" enseigne="MAISON " num_rm="" sigle="" gerant1="Robert SANNA" gerant2="" gerant3="" num_autorisation="SAP493630354" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="577" itemid="0" intitule="VANNES" intitule_complement="" zone_chalandise_tab=" 28 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="Pépinière CREALIS - Rue Lefèvre Utile Zone de PENTAPARC" complement="BP n° 73632" cp="56036" ville="VANNES" lat="47.6581196" lng="-2.748352999999952"/>
+    <contact tel="02 97 61 83 30" fax="" mobile="" telint="" mail="msvannes@maison-et-services.com" googleplusid="107777588853663714042"/>
+    <administratif siege_sociale="0" formeSociale="" capital="" tva="FR94 800458739" numrcs="800 458 739" villercs="" raison_sociale="" objet_sociale="" ape_naf="" siret="800 458 739 00011" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="SAP800458739" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="428" itemid="0" intitule="VIERZON " intitule_complement="" zone_secondaire_tab=" 429 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="39-43 Avenue Jean Jaurès" complement="" cp="18100" ville="VIERZON" lat="47.23105" lng="2.0443894"/>
+    <contact tel="02 48 65 79 16" fax="" mobile="" telint="" mail="msvierzon@maison-et-services.com" googleplusid=""/>
+    <administratif siege_sociale="333" siret="501 069 512 00025"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="430" itemid="0" intitule="VILLEFRANCHE/SAONE " intitule_complement="" zone_chalandise_tab=" 140 ">
+    <activite type="Partenaires" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="86 rue des chantiers du beaujolais" complement="" cp="69400" ville="LIMAS" lat="45.987434" lng="4.709911"/>
+    <contact tel="04 74 60 68 15" fax="04 74 60 51 34" mobile="" telint="" mail="info-vil@mslyon.com" googleplusid="110556584310174539514"/>
+    <administratif siege_sociale="0" formeSociale="SARL" capital="600,00" tva="FR27 501766067" numrcs="501 766 067" villercs="Villefranche" raison_sociale="Active Beaujolais Services" objet_sociale="" ape_naf="8129 B" siret="501 766 067 00026" enseigne="" num_rm="" sigle="" gerant1="" gerant2="" gerant3="" num_autorisation="N/180308/F/069/S/023" num_convention="3127" libelle_convention="Convention collective nationale des entreprises de services à la personne"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+  <societe id="431" itemid="0" intitule="VITRE " intitule_complement="" zone_secondaire_tab=" 430 ">
+    <activite type="Propres" activite="Services à domicile"/>
+    <identite logo="" couleur="Orange" accroche=""/>
+    <adresse adresse="13 bis rue Pierre et Marie Curie" complement="Parc d'activité de la Plagué - La Haie Robert" cp="35500" ville="VITRE" lat="48.113896" lng=" -1.188016"/>
+    <contact tel="02 99 75 05 23" fax="" mobile="" telint="" mail="ms35300@maison-et-services.com" googleplusid="113131736105042488932"/>
+    <administratif siege_sociale="358" siret="453 709 883 00020"/>
+    <labelisation qualipropre="0"/>
+    <catalogue CT_Sage=""/>
+  </societe>
+</societes>

@@ -19,17 +19,26 @@ public class ZoneChalandiseDAO {
 		Connection cnx = null;	// Initialisation de la connexion 	
 		cnx = Connexion.getDbCon().getCnx();// Récupération de la connexion
 		String select = "SELECT zone_chalandise.id , zone_chalandise.intitule FROM jointure INNER JOIN zone_chalandise ON zone_chalandise.ID = jointure.ZONE_CHALANDISE_MS WHERE jointure.CODE_POSTAUX_ID = ? "; // Initialisation de la requète
+		PreparedStatement prep1 = null;
 		try {
 			//results = mysqlConnect.query(select); // On essaie d'envoyer la requète a la BDD
 			
-			PreparedStatement prep1 = cnx.prepareStatement(select); // preparation de la requete
+			 prep1 = cnx.prepareStatement(select); // preparation de la requete
 			prep1.setInt(1,id); // ajout d'un parametre a la requete
 			System.out.println("Requete de base : "+select);
 			System.out.println("Prep1 : "+prep1);
 			results = prep1.executeQuery(); // execution de la requète
 		} catch (Exception e) {
 			e.printStackTrace(); // Sinon on envoie un message d'erreur
-		}
+		}finally{
+            if(prep1 != null){
+                try {
+                    prep1.close();
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+        }
 
 		while (results.next()) { // Tant qu'on a un résultat
 			String intitule = results.getString("zone_chalandise.intitule"); // On stock dans une variable l'intitule de la zone de chalandise 

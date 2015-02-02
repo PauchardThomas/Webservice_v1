@@ -99,7 +99,7 @@ public class Index {
 			ResultSet results = null;
 			
 			String select = "SELECT code_postaux.ID,CP,VILLE FROM CODE_POSTAUX INNER JOIN jointure ON jointure.CODE_POSTAUX_ID = code_postaux.ID WHERE CP LIKE ? ORDER BY VILLE" ; // Initialisation de la requete
-			PreparedStatement prep1 = null
+			PreparedStatement prep1 = null;
 
 			try {
 				 prep1 = cnx.prepareStatement(select); // preparation de la requete

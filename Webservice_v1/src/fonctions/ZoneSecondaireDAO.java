@@ -18,9 +18,10 @@ public class ZoneSecondaireDAO {
 		Connection cnx = null;	// Initialisation de la connexion 	
 		cnx = Connexion.getDbCon().getCnx();// Récupération de la connexion
 		String select = "SELECT zone_secondaire.id , zone_secondaire.intitule FROM jointure INNER JOIN zone_secondaire ON zone_secondaire.ID = jointure.ZONE_SECONDAIRE_MS WHERE jointure.CODE_POSTAUX_ID = ? "; // Initialisation de la requète
+		PreparedStatement prep1 = null;
 		try {
 		
-			PreparedStatement prep1 = cnx.prepareStatement(select); // preparation de la requete
+			 prep1 = cnx.prepareStatement(select); // preparation de la requete
 			prep1.setInt(1,id); // ajout d'un parametre a la requete
 			System.out.println("Requete de base : "+select);
 			System.out.println("Prep1 : "+prep1);
@@ -28,7 +29,15 @@ public class ZoneSecondaireDAO {
 			
 		} catch (Exception e) {
 			e.printStackTrace(); // Sinon on affiche un message d'erreur
-		}
+		}finally{
+            if(prep1 != null){
+                try {
+                    prep1.close();
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+        }
 
 		while (results.next()) { // Tant qu'on a un résultat
 			String intitule = results.getString("zone_secondaire.intitule"); // On stock dans unez variable l'intitule de la zone secondaire.
